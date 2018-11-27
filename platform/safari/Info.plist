@@ -77,8 +77,7 @@
         </dict>
         <key>Whitelist</key>
         <array>
-            <string>http://*/*</string>
-            <string>https://*/*</string>
+            <string>https://www.youtube.com/*</string>
         </array>
     </dict>
     <key>Description</key>
